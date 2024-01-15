@@ -17,4 +17,4 @@ In this project user has to create a password generator, which allows the users 
 
 ## Output
 
-![expected output](https://cute-mermaid-0b921b.netlify.app/)
+# Link -[Project](https://cute-mermaid-0b921b.netlify.app/)
